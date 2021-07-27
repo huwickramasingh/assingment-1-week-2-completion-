@@ -1,0 +1,78 @@
+body{
+   
+}
+
+.container{
+    position: fixed;
+    background-color: aliceblue;
+    top: 60px;
+    left: 800px;
+
+   /* background-color: rgb(196, 120, 20);*/
+    height:400px;
+    width: 400px;
+    margin-top: 200px;
+  
+    
+   
+    
+   }
+.h6-1{
+    position: relative;
+
+    padding-left: 90px;
+    top:-20px;
+    
+
+   }
+.heading{
+position: fixed;
+
+   color: aliceblue;
+
+   /* background-color: rgb(196, 120, 20);*/
+    height:400px;
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 41%;
+
+
+
+}
+.img-1{
+    position: absolute;
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+}
+
+.l1{
+    padding-top: 100px;
+    margin:10px 0px 10px 30px;
+    padding-left: 20px;
+
+
+
+}
+
+.l2{
+   
+    margin:10px 0px 10px 30px;
+    padding-left: 20px;
+    
+
+}
+.B1{
+  
+    margin-left:150px;
+    
+}
+.Rm{
+    margin-left:120px ;
+}
+.link{
+   
+    margin-left:120px ;
+}
+
+
+
